@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nagi2038
-- 👀 I’m interested in Robotics and automation. 
-- 🌱 I’m currently learning python ,pandas , data visualization
+- 👋 Hi, I’m Nagireddy
+- 👀 I’m interested in Robotics and automation.
+- 🌱 I’m currently learning python ,java ,DSA ,spring boot
 - 📫 How to reach me nagi2038@gmail.com
 
 <!---
